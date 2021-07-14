@@ -1,0 +1,6 @@
+Crie uma classe carro com os attributor:
+ - Marca: String
+ - Modelo: String
+ - Ano Integer
+ - Variante: String
+ Essa classe de garantir que Modelo, Marca e Ano sempre sejam passados na hora de instanciar um objeto.
