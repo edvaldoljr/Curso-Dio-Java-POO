@@ -27,15 +27,7 @@ public class Carro {
     public int getAno() {
         return ano;
     }
-    public void setMarca(String marca) {
-        this.marca = marca;
-    }
-    public void setModelo(String modelo) {
-        this.variante = modelo;
-    }
-    public void setAno(String ano) {
-        this.variante = ano;
-    }
+
     public void setVariante(String variante) {
         this.variante = variante;
     }
