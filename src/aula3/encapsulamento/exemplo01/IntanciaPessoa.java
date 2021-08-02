@@ -6,12 +6,14 @@ public class IntanciaPessoa {
 
         System.out.println(eu.getNome());
         System.out.println(eu.getDataDeNascimento());
-        System.out.println(eu.calculaIdade());
+        System.out.println(eu.calculaIdade() + " anos");
 
         eu.setNome("Junior");
 
+         System.out.println(eu.getNome());
+
+         eu.setNome("Luiz");
+
         System.out.println(eu.getNome());
     }
-
-
 }
