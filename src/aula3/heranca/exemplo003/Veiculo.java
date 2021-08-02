@@ -34,7 +34,7 @@ public class Veiculo {
         this.valorVenal = valorVenal;
     }
 
-    public double calculaImposto(){
+    public double calculaImposto() {
         return this.valorVenal * 0.01;
     }
 }
