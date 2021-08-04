@@ -1,4 +1,4 @@
-package aula4.exemploEquals;
+package aula4.exemploEquals.exemplo001;
 
 public class InstanciaObjeto {
     public static void main(String[] args) {

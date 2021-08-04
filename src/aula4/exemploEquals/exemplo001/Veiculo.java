@@ -1,4 +1,4 @@
-package aula4.exemploEquals;
+package aula4.exemploEquals.exemplo001;
 
 public abstract class Veiculo {
     private String marca;
@@ -43,6 +43,4 @@ public abstract class Veiculo {
     public double calculaImposto() {
         return this.valorVenal * 0.01;
     }
-
-
 }

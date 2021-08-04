@@ -1,11 +1,11 @@
-package aula4.exemploEquals;
+package aula4.exemploEquals.exemplo002;
 
 public class Carro extends Veiculo {
-    public Carro(String modelo, String marca, double valorVenal){
+    public Carro(String modelo, String marca, double valorVenal) {
         super(modelo, marca, valorVenal);
     }
 
-    public Carro(String modelo, String marca, double valorVenal, int quantidadesDePortas){
+    public Carro(String modelo, String marca, double valorVenal, int quantidadesDePortas) {
         super(modelo, marca, valorVenal);
         this.quantidadesDePortas = quantidadesDePortas;
     }
