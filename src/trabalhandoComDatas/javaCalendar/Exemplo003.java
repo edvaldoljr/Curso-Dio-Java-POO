@@ -24,6 +24,5 @@ public class Exemplo003 {
 
         System.out.printf("%tT\n", agora);
         //20:58:11
-
     }
 }
