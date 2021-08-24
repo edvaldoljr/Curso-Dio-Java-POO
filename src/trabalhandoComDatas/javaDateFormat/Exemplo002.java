@@ -16,7 +16,7 @@ public class Exemplo002 {
         String dataFormatada = formatter.format(agora);
 
         System.out.println(dataFormatada);
-        // 14/07/2019
+        // 24/08/2021
 
     }
 }
