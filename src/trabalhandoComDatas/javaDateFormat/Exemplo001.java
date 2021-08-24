@@ -13,16 +13,16 @@ public class Exemplo001 {
 
         String dateToStr = DateFormat.getInstance().format(agora);
         System.out.println(dateToStr);
-        // 15/07/19 22:13
+        // 24/08/2021 02:44
 
         dateToStr = DateFormat.getDateTimeInstance(DateFormat.LONG,DateFormat.SHORT).format(agora);
         System.out.println(dateToStr);
-        // 15 de Julho de 2019 22:13
+        // 24 de agosto de 2021 02:44
 
 
         dateToStr = DateFormat.getDateTimeInstance(DateFormat.LONG,DateFormat.LONG).format(agora);
         System.out.println(dateToStr);
-        // 15 de Julho de 2019 22h13min55s BRT
+        // 24 de agosto de 2021 02:44:46 BRT
 
     }
 }
