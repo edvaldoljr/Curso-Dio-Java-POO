@@ -14,13 +14,13 @@ public class Exemplo003 {
         boolean isAfter = dataNoPassado.after(dataNoFuturo);
 
         System.out.println(isAfter);
-        //false
+        //false;
 
         //Comparando se a dataNoPassado é anterior a dataNoFuturo
         boolean isBefore = dataNoPassado.before(dataNoFuturo);
 
         System.out.println(isBefore);
-        //true
+        //true;
 
     }
 }
