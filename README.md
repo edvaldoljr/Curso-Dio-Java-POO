@@ -223,3 +223,5 @@ No exemplo 8 é inicializada a classe “ConstrutorProg”, passando apenas um a
 Sempre uma classe terá um construtor padrão, mesmo não sendo declarado o compilador irá fornecer um. Esse construtor não recebe argumentos e existe para possibilitar a criação de objetos para uma classe.
 
 Espero que tenham gostado e fico por aqui. Até a próxima!
+
+![](C:\Users\Edvaldo junior\Documents\Aulas-Java-POO-Digital-Innovation-One\img\Certificado.png)
