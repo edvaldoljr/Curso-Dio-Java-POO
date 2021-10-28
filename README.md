@@ -224,4 +224,4 @@ Sempre uma classe terá um construtor padrão, mesmo não sendo declarado o comp
 
 Espero que tenham gostado e fico por aqui. Até a próxima!
 
-![](C:\Users\Edvaldo junior\Documents\Aulas-Java-POO-Digital-Innovation-One\img\Certificado.png)
+![](https://github.com/edvaldoljr/Aulas-Java-POO-Digital-Innovation-One/blob/main/img/Certificado.png?raw=true)
